@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://your-solution-url.com)
-- Live Site URL: (https://lysitheadarkknight.github.io/FourCardFeatureSectionMaster/)
+- Solution URL: (https://www.frontendmentor.io/solutions/time-tracking-dashboardsass-and-js-json-fetch-K9W6SD8pDT)
+- Live Site URL: (https://lysitheadarkknight.github.io/TimeTrackingDashboard/))
 
 ## My process
 
